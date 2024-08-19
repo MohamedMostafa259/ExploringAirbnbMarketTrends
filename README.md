@@ -90,7 +90,7 @@ The analysis is based on data from 2019, comprising the following files:
 
   - **Shared room**: $\approx$ $50/night
 
-  - **Note:** However the average price of shared rooms in Manhattan is higher than the average prices of those private rooms in the remaining boroughs.
+  - <span style="color: orange;"><strong>Note:</strong></span> However the average price of shared rooms in Manhattan is higher than the average prices of those private rooms in the remaining boroughs.
 
     - **Average Price by Borough**:
 
