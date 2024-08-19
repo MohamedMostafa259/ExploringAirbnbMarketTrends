@@ -64,7 +64,23 @@ The analysis is based on data from 2019, comprising the following files:
 
 - **Room Type Distribution**: The most common room type is **entire home/apt** with around 13,000 listings, followed by **private rooms** ($\approx$ 11,000 listings), and **shared rooms** ($\approx$ 500 listings).
 
+![Room Type Distribution](https://github.com/MohamedMostafa259/ExploringAirbnbMarketTrends/blob/2d668c93c0a4629001c686877aa078095a8e1a92/visualizations/Frequency%20of%20each%20Room%20Type.png)
+
+<br>
+
+---
+
+<br>
+
 - **Borough Distribution**: Airbnb listings are most prevalent in **Brooklyn** and **Manhattan** ($\approx$ 10,500 listings each), followed by **Queens** ($\approx$ 3,500 listings), **Bronx** ($\approx$ 700 listings), and **Staten Island** ($\approx$ 250 listings).
+
+![Borough Distribution](https://github.com/MohamedMostafa259/ExploringAirbnbMarketTrends/blob/2d668c93c0a4629001c686877aa078095a8e1a92/visualizations/Frequency%20of%20each%20Borough.png)
+
+<br>
+
+---
+
+<br>
 
 - **Average Price by Room Type**:
 
@@ -76,12 +92,22 @@ The analysis is based on data from 2019, comprising the following files:
 
   - **Note:** However the average price of shared rooms in Manhattan is higher than the average prices of those private rooms in the remaining boroughs.
 
-- **Average Price by Borough**:
+    - **Average Price by Borough**:
 
-  - **Manhattan**: $185/night
+        - **Manhattan**: $185/night
 
-  - **Brooklyn**: $120/night
+        - **Brooklyn**: $120/night
 
-  - **Queens**: $90/night
+        - **Queens**: $90/night
+
+![Average Price by Room Type and Borough](https://github.com/MohamedMostafa259/ExploringAirbnbMarketTrends/blob/2d668c93c0a4629001c686877aa078095a8e1a92/visualizations/The%20Average%20Price%20for%20each%20Room%20Type%20and%20Borough%20Combination.png)
+
+<br>
+
+---
+
+<br>
 
 - **Top Neighborhoods**: The most common neighborhoods include Bedford-Stuyvesant, Williamsburg, Harlem, and Bushwick, among others.
+
+![Top Neighborhoods](https://github.com/MohamedMostafa259/ExploringAirbnbMarketTrends/blob/2d668c93c0a4629001c686877aa078095a8e1a92/visualizations/Frequency%20of%20the%20most%20common%2010%20neighborhoods.png)
